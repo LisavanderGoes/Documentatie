@@ -1,0 +1,10 @@
+-	HP Notebook (Systeemmodel)
+-	X64-based PC (Systeemtype)
+-	Intel® Core™ i7-7500U CPU @ 2.70GHz, 2901 MHz, 2 core(`s), 4 logische processor(s) (Processor)
+-	8,00 GB (Geïnstalleerd fysiek geheugen (RAM))
+-	Intel® USB 3.0 eXtensible Host Controller – 1.0 (Microsoft) [PCI\VEN_8086&DEV_9D2F&SUBSYS_81ED103C&REV_21\3&11583659&1&A0] (USB)
+-	Intel(R) HD Graphics 620
+
+
+-	Microsoft Windows 10 Home
+-	IntelliJ IDE Ultimate (??)
